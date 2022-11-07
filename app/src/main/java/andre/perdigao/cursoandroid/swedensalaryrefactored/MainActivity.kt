@@ -188,5 +188,4 @@ class MainActivity : AppCompatActivity() {
         imm.hideSoftInputFromWindow(view.windowToken,0)
     }
 
-
 }
