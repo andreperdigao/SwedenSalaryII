@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
     private var net = 0
     private var cost = 0
     private var rest = 0
-    private val tax = 0.7618
+    private val tax = 0.7364
 
     private val keyNet = "net"
     private val keyCost = "cost"
